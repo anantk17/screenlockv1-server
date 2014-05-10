@@ -5,7 +5,6 @@ import os
 from PySide import QtGui,QtCore
 from KThread import *
 from IP import *
-running = False
 
 class MainScreen(QtGui.QWidget):
 
